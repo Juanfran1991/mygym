@@ -1,0 +1,76 @@
+{
+  "Ejercicio": [
+    {
+      "nombre": "Sentadillas",
+      "material": "Ningún material a utilizar",
+      "instruccion": "Colócate en una posición que te resulte cómoda: a algunas personas les ayuda poner los dedos del pie hacia afuera, pero también está bien ponerlos en paralelo. Si no sabes bien qué es lo que más te conviene, coloca los pies a la anchura de los hombros, dirigiéndolos 15 grados hacia el exterior. Haz fuerza en la parte abdominal, como si alguien te fuera a pegar. Mira hacia adelante, con la cabeza alta.",
+      "extra": "Presta atención a las diferencias que sienten cuando realizas algún cambio en tu postura ",
+      "dificultad": "facil",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/mu8qc5zx519is9b/sentadillas.jpg"
+    },
+    {
+      "nombre": "Dominadas",
+      "material": "Una barra fija para realizar el ejercicio",
+      "instruccion": "Agárrate a una barra horizontal con un agarre prono (las palmas mirando hacia fuera), con las manos separadas unos 20 centímetros más que la anchura de los hombros. Extiende los brazos por completo y relaja los hombros para que los dorsales queden totalmente estirados. Inspira profundamente y aguanta la respiración mientras contraes los dorsales para elevarte hacia la barra. Mantén los codos a los lados y hacia fuera, y bájalos para que tu puedas elevarte. Sigue tirando hasta que la mandíbula alcance el nivel de la barra o ligeramente por encima. Expulsa el aire y baja hasta la posición inicial de manera controlada. Repite varias veces. ",
+      "extra": "Hacer 3 repeticiones de 5 dominadas cada una e ir aumentando con el tiempo. ",
+      "dificultad": "dificil",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/is36tmurr7ftx1y/dominadas.jpg"
+    },
+    {
+      "nombre": "Press banca",
+      "material": "Pesas de barra y un banco",
+      "instruccion": "Túmbate sobre un banco, planta bien los pies en el suelo haciendo fuerza con los talones, arquea la espalda, clava los hombros contra el banco y apriétalos hacia el centro. A la hora de subir la barra, mantén los hombros pegados al cuerpo y trata de trazar un arco con la barra.",
+      "extra": "Ir aumentando el peso según avances en el ejercicio.",
+      "dificultad": "facil",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/v37acoz6fml2koz/press_banca.jpg"
+    },
+    {
+      "nombre": "Peso muerto",
+      "material": "Pesas de barra",
+      "instruccion": "De pie, con el peso de una barra o unas mancuernas, flexiona ligeramente las rodillas y separa los pies. Con los brazos relajados y las palmas mirando hacia el cuerpo, inclina el tronco en dirección al suelo pero siempre con la espalda recta. No es necesario llegar al suelo, solo hasta donde sea cómodo para ti.",
+      "extra": " ",
+      "dificultad": "facil",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/uykq5efs13uo31o/peso_muerto.png"
+    },
+    {
+      "nombre": "Press con mancuernas inclinado",
+      "material": "Un banco y dos pesas de 2kg",
+      "instruccion": "En un banco inclinado unos 30-45 grados, apoya los pies contra el suelo, extiende ligeramente las piernas y mantén las caderas, los hombros y la cabeza en contacto con el banco y alineados. Con una mancuerna en cada mano y las palmas mirando al frente, desde la altura de los hombros, lleva las mancuernas hacia arriba y hacia dentro.",
+      "extra": "Ir aumentando el peso de las pesa según avances en el ejercicio.",
+      "dificultad": "facil",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/t5vbciecvy26v2o/press_macuernas_inclinado.png"
+    },
+    {
+      "nombre": "Remo con mancuernas",
+      "material": "Una pesa de unos 3 Kg",
+      "instruccion": "Remo con mancuernas:  Coloca la pierna y el brazo del mismo lado en un banco plano manteniendo la espalda recta. Coge la mancuerna con la otra mano y mantenla orientada hacia el torso. Tira de la mancuerna hacia arriba, en dirección al pecho, pero manteniendo el torso inmóvil. Asegúrate de hacer fuerza con los músculos de la espalda y no con los brazos. Cambia de lado y repite. ",
+      "extra": "Aumentar el peso poco a poco en los dias posteriores.",
+      "dificultad": "media",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/4hi55nbkr0o5icl/remo_mancuernas.jpg"
+    },
+    {
+      "nombre": "Barra al mentón",
+      "material": "Una barra de pesas o mancuernas",
+      "instruccion": "De pie, con la barra en agarre prono y las manos separadas el ancho de los hombros, mantén el torso erguido y los brazos extendidos a la vez que tiras de la barra hasta que los brazos quedan a la altura de las orejas y los codos apuntan a los lados. ",
+      "extra": " Nada ",
+      "dificultad": "facil",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/ozk03rkjjdoaxgg/barra_menton.jpg"
+    },
+    {
+      "nombre": "Extensiones de piernas",
+      "material": "Maquina de ejercicios",
+      "instruccion": "Coloca los pies bajo los rodillos de la máquina de tal forma que la espalda y las caderas queden perfectamente apoyadas en el respaldo. Extiende las rodillas de manera que queden paralelas al suelo pero manteniendo el torso erguido. Desciende las piernas de un modo controlado. ",
+      "extra": " ",
+      "dificultad": "facil",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/z2958lz9q65qvkv/extension_piernas.jpg"
+    },
+    {
+      "nombre": "Fondos",
+      "material": "Ningún material a utilizar",
+      "instruccion": "Con las piernas en el aire y el torso ligeramente inclinado, y gracias tan solo al movimiento de los brazos, tienes que subir y bajar tu cuerpo manteniendo las piernas y el torso inmóviles.",
+      "extra": "Realiza 4 repeticiones, con 5 fondos en cada repeticion ",
+      "dificultad": "medio",
+      "urlImagen": "https://dl.dropboxusercontent.com/s/3oj237yoe97jdjg/fondos.jpg"
+    }
+  ]
+}
